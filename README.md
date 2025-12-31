@@ -18,6 +18,7 @@ other resources, that is
 - (full) train, val and test datasets
 - (full) textures and stains used for creating the dataset
 - (full) inferred results with each trained model
+- extracted texts from inferred images with OCR engines
 
 are available at [onedrive](https://liveuniba-my.sharepoint.com/:f:/g/personal/tuch1_uniba_sk/IgAxWRwEvroTTqAf-8p0UqblAYIXUwGzlCyU-3BmcvwE5F8?e=otBeeM).
 
