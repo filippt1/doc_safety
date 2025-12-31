@@ -9,16 +9,17 @@ this repository contains code and resources used to evaluate the safety of image
 ## repository structure
 
 - [01_dataset](01_dataset): contains scripts to create the dataset used for evaluation
-- [02_networks](02_networks): contains scripts to train the image enhancement models (drunet, dncnn, pix2pix)
+- [02_networks](02_networks): contains scripts to train the image enhancement models (drunet, dncnn, pix2pix), and training logs
 - [03_evaluation](03_evaluation): contains scripts to evaluate the safety of the image enhancement models on the dataset, and the results obtained (IQA, OCR, plots, confusion matrices)
+- [examples](examples): contains example images from the dataset, stains, textures, inference results, etc
 
 other resources, that is 
 - trained models
-- train, val and test datasets
-- textures and stains used for creating the dataset
-- inferred results with each trained model
+- (full) train, val and test datasets
+- (full) textures and stains used for creating the dataset
+- (full) inferred results with each trained model
 
-are available at [huggingface](https://huggingface.co/datasets/filippt1/doc_safety/tree/main).
+are available at [onedrive](https://liveuniba-my.sharepoint.com/:f:/g/personal/tuch1_uniba_sk/IgAxWRwEvroTTqAf-8p0UqblAYIXUwGzlCyU-3BmcvwE5F8?e=otBeeM).
 
 
 ## how to reproduce?
