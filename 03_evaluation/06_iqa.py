@@ -7,14 +7,14 @@ from skimage.metrics import peak_signal_noise_ratio as psnr
 from skimage.metrics import mean_squared_error as mse
 
 
-GT_DIR = '/Users/filiptuch/ml_project/to_upload_on_drive/dataset_split/test/clean'  # path to ground truth images
+GT_DIR = ''  # path to ground truth images
 
 # paths to degraded/enhanced images
 DIRS_TO_TEST = {
-    'Degraded (Baseline)': '/Users/filiptuch/ml_project/to_upload_on_drive/dataset_split/test/degraded',
-    'Pix2Pix': '/Users/filiptuch/ml_project/to_upload_on_drive/inference/inference_pix2pix',
-    'DnCNN': '/Users/filiptuch/ml_project/to_upload_on_drive/inference/inference_dncnn',
-    'DRUNet': '/Users/filiptuch/ml_project/to_upload_on_drive/inference/inference_drunet'
+    'Degraded (Baseline)': '',
+    'Pix2Pix': '',
+    'DnCNN': '',
+    'DRUNet': ''
 }
 
 OUTPUT_CSV = 'results/final_image_quality_summary.csv'
