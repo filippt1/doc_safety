@@ -1,0 +1,5 @@
+Model: pix2pix | Engine: tesseract
+CER: 0.1472
+S: 33295
+D: 25459
+I: 4229

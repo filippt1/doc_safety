@@ -1,0 +1,5 @@
+Model: degraded | Engine: easyocr
+CER: 0.4736
+S: 53699
+D: 140175
+I: 8820

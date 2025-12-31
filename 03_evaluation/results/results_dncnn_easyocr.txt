@@ -1,0 +1,5 @@
+Model: dncnn | Engine: easyocr
+CER: 0.1518
+S: 31385
+D: 27614
+I: 5969

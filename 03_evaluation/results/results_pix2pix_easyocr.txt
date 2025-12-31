@@ -1,0 +1,5 @@
+Model: pix2pix | Engine: easyocr
+CER: 0.2274
+S: 56665
+D: 32828
+I: 7821

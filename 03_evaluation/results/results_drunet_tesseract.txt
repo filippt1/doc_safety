@@ -1,0 +1,5 @@
+Model: drunet | Engine: tesseract
+CER: 0.0309
+S: 7171
+D: 4032
+I: 2003

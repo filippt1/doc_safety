@@ -1,0 +1,5 @@
+Model: drunet | Engine: easyocr
+CER: 0.0878
+S: 14151
+D: 18413
+I: 5004

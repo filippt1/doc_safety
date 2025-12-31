@@ -1,0 +1,5 @@
+Model: clean | Engine: tesseract
+CER: 0.0191
+S: 3045
+D: 3091
+I: 2042

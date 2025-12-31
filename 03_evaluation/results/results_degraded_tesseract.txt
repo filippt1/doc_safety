@@ -1,0 +1,5 @@
+Model: degraded | Engine: tesseract
+CER: 0.5229
+S: 21399
+D: 194384
+I: 8014
