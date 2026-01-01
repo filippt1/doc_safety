@@ -13,11 +13,11 @@ this repository contains code and resources used to evaluate the safety of image
 - [03_evaluation](03_evaluation): contains scripts to evaluate the safety of the image enhancement models on the dataset, and the results obtained (IQA, OCR, plots, confusion matrices)
 - [examples](examples): contains example images from the dataset, stains, textures, inference results, etc
 
-other resources, that is 
+other resources, i. e.
 - trained models
-- (full) train, val and test datasets
-- (full) textures and stains used for creating the dataset
-- (full) inferred results with each trained model
+- (complete) train, val and test datasets
+- (complete) textures and stains, texts used for creating the dataset
+- (complete) inferred results with each trained model
 - extracted texts from inferred images with OCR engines
 
 are available at [onedrive](https://liveuniba-my.sharepoint.com/:f:/g/personal/tuch1_uniba_sk/IgAxWRwEvroTTqAf-8p0UqblAYIXUwGzlCyU-3BmcvwE5F8?e=otBeeM).
