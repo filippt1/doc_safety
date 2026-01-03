@@ -45,3 +45,4 @@ are available at [onedrive](https://liveuniba-my.sharepoint.com/:f:/g/personal/t
     4. [03_evaluation/04_visualize_confusion_matrices.py](03_evaluation/04_visualize_confusion_matrices.py) visualizes the confusion matrices
     5. [03_evaluation/05_safety_evaluation.py](03_evaluation/05_safety_evaluation.py) evaluates the safety of the trained models based on the insertion, deletion, and substitution errors obtained from the confusion matrices
     6. [03_evaluation/06_iqa.py](03_evaluation/06_iqa.py) computes image quality assessment metrics (PSNR, SSIM, MSE) on clean images and the inferred images
+    7. [03_evaluation/07_slavic_analysis.py](03_evaluation/07_slavic_analysis.py) performs additional analysis on the errors related to slavic characters
